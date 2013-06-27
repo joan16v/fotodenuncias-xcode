@@ -10,7 +10,9 @@
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFiles</key>
 	<array>
-		<string>iphone_fd_icon.png</string>
+		<string>icono_fd_iphone.png</string>
+		<string>iconFD2x.png</string>
+		<string>iTunesArtwork.png</string>
 	</array>
 	<key>CFBundleIcons</key>
 	<dict>
@@ -18,12 +20,14 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>iphone_fd_icon.png</string>
+				<string>icono_fd_iphone.png</string>
+				<string>iconFD2x.png</string>
+				<string>iTunesArtwork.png</string>
 			</array>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>joan16v.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>joan16v.${PRODUCT_NAME:rfc1034identifier}s</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

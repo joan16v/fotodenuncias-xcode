@@ -27,16 +27,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8C051DB615501C3200E3A996"
-               BuildableName = "foto denunciasTests.octest"
-               BlueprintName = "foto denunciasTests"
-               ReferencedContainer = "container:FotoDenuncias.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
@@ -90,7 +80,6 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
-      customArchiveName = "FotoDenuncia"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
